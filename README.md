@@ -22,5 +22,4 @@ The Deep Anscient inova ao fundamentar uma temática única em uma base de mecâ
 # Plataformas #
 O jogo será lançado inicialmente para Windows, Mac, Linux, Android e IOS. Com possível suporte para consoles no futuro. 
 
-# Diferença de cada versão #
 
