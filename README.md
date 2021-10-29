@@ -23,5 +23,4 @@ The Deep Anscient inova ao fundamentar uma temática única em uma base de mecâ
 O jogo será lançado inicialmente para Windows, Mac, Linux, Android e IOS. Com possível suporte para consoles no futuro. 
 
 # Diferencial de cada versão #
-Em sua versão mobile o tentáculo da criatura é movimentado através do touch screen, com o jogador usando seu toque na tela para guiar a direção do monstro.
-
+Em sua versão mobile o tentáculo da criatura é movimentado através do touch screen, com o jogador usando seu toque na tela para guiar a direção do monstro. Já em sua versão de Computador o jogador controla o tentáculo por meio das setinhas do teclado ou pelas teclas WASD.
